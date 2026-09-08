@@ -1,6 +1,3 @@
-# home-server
-Personal self-hosted server infrastructure — Linux, Docker, WireGuard, networking and self-hosted services.
-
 
 
 # 🖥️ Home Server
@@ -92,9 +89,12 @@ Basic infrastructure:
          ▼
       Jellyfin
 
+```markdown
+      Jellyfin
 
+---
 
-🧠 What I learned
+## 🧠 What I learned
 
 Working on this project gave me practical experience with:
 
@@ -115,3 +115,9 @@ how they work under the hood.
 🟢 Active
 
 The infrastructure is continuously maintained and expanded.
+
+## 📸 Server
+
+Screenshot of my server environment:
+
+![Home Server](images/StagCloud Sing in.jpg)
