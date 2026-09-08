@@ -89,10 +89,6 @@ Basic infrastructure:
          ▼
       Jellyfin
 
-```markdown
-      Jellyfin
-
----
 
 ## 🧠 What I learned
 
@@ -119,5 +115,4 @@ The infrastructure is continuously maintained and expanded.
 ## 📸 Server
 
 Screenshot of my server environment:
-
-![home-server](images/StagCloud Sing in.jpg)
+![Home Server](images/server.jpg)
