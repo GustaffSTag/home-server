@@ -89,6 +89,8 @@ Basic infrastructure:
          ▼
       Jellyfin
 
+---
+
 
 ## 🧠 What I learned
 
@@ -116,5 +118,4 @@ The infrastructure is continuously maintained and expanded.
 
 Screenshot of my server environment:
 
-! images/server.jpg
-
+! ![home-server](images/server.jpg)
