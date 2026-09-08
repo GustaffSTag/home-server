@@ -1,6 +1,4 @@
-
-
-# 🖥️ Home Server
+# 🖥 Home Server
 
 My personal home server infrastructure built and maintained by me.
 
@@ -87,34 +85,4 @@ Basic infrastructure:
       Docker    Other Services
          │
          ▼
-      Jellyfin```
-
-
-## 🧠 What I learned
-
-Working on this project gave me practical experience with:
-
-Linux administration
-Networking
-VPNs
-Docker
-Self-hosting
-Remote access
-Troubleshooting
-Service configuration
-
-I prefer learning by building things myself and figuring out
-how they work under the hood.
-
-🚧 Status
-
-🟢 Active
-
-The infrastructure is continuously maintained and expanded.
-
-## 📸 Server
-
-Screenshot of my server environment:
-
-<img width="1280" height="653" alt="StagCloud" src="https://github.com/user-attachments/assets/3ac1cce4-d6d7-4c9f-ba7c-8fcde3c5e3d0" />
-
+      Jellyfin
