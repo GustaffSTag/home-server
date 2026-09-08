@@ -120,4 +120,4 @@ The infrastructure is continuously maintained and expanded.
 
 Screenshot of my server environment:
 
-![Home Server](images/StagCloud Sing in.jpg)
+![home-server](images/StagCloud Sing in.jpg)
