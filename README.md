@@ -116,4 +116,5 @@ The infrastructure is continuously maintained and expanded.
 
 Screenshot of my server environment:
 
-![home-server](images/server.jpg)
+! images/server.jpg
+
