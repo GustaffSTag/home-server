@@ -87,9 +87,7 @@ Basic infrastructure:
       Docker    Other Services
          │
          ▼
-      Jellyfin
-
----
+      Jellyfin```
 
 
 ## 🧠 What I learned
@@ -118,4 +116,5 @@ The infrastructure is continuously maintained and expanded.
 
 Screenshot of my server environment:
 
-! ![home-server](images/server.jpg)
+<img width="1280" height="653" alt="StagCloud" src="https://github.com/user-attachments/assets/3ac1cce4-d6d7-4c9f-ba7c-8fcde3c5e3d0" />
+
