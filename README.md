@@ -56,6 +56,12 @@ to my home network and services.
 Self-hosted media server for managing and streaming my personal
 media library across devices.
 
+
+## 📸 Server
+
+Screenshot of my server environment:
+<img width="1280" height="653" alt="StagCloud" src="https://github.com/user-attachments/assets/d06b781c-e340-4c1e-a42b-73225d3d70e2" />
+
 ---
 
 ## 🌐 Network
